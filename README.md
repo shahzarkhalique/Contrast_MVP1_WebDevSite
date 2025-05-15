@@ -1,4 +1,4 @@
-# Contrast - Price Comparison Website
+# Contrast MVP1 - Price Comparison Website
 
 ## Description
 
